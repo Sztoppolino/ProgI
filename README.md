@@ -8,3 +8,4 @@ A játék elindítása: nyomd meg a zöld zászlót, tedd a programot teljes ké
 
 A projektek készítőjének Neptun-kódja: E0PSLF
 
+![image](https://user-images.githubusercontent.com/46872702/109396054-05f0f280-7930-11eb-8221-841c656ace8f.png)
