@@ -6,6 +6,6 @@ A Ubiquity egy Scratch-alapú játék, melynek lényege, hogy a levegőben manő
 
 A játék elindítása: nyomd meg a zöld zászlót, tedd a programot teljes képernyős módba (opcionális), majd kövesd a program utasításait.
 
-A projektek készítőjének Neptun-kódja: E0PSLF
+A projekt készítőjének Neptun-kódja: E0PSLF
 
 ![image](https://user-images.githubusercontent.com/46872702/109396054-05f0f280-7930-11eb-8221-841c656ace8f.png)
